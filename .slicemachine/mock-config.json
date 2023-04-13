@@ -1,0 +1,25 @@
+{
+  "slices": {
+    "HeroBlock": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Blog": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "Feature": {
+      "default": {
+        "items": {}
+      }
+    }
+  },
+  "_cts": {
+    "blog_post": {},
+    "author": {},
+    "page": {}
+  }
+}

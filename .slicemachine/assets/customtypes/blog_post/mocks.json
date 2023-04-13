@@ -1,0 +1,49 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "tube"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Quis fugiat nostrud cillum tempor esse labore consectetur qui incididunt qui est cillum aute. Id nulla irure amet non culpa velit deserunt enim incididunt sunt id sit in."
+        }
+      }
+    ]
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Sit et sit aute do eu qui sint nisi nisi. Anim ipsum ipsum cupidatat nostrud adipisicing aute nulla labore deserunt occaecat laboris deserunt occaecat esse enim."
+        }
+      }
+    ]
+  },
+  "publish_date": {
+    "__TYPE__": "FieldContent",
+    "type": "Date",
+    "value": "2016-10-03"
+  },
+  "author": {
+    "__TYPE__": "LinkContent",
+    "value": {
+      "__TYPE__": "DocumentLink",
+      "id": "mock_document_id"
+    }
+  },
+  "category": {
+    "__TYPE__": "FieldContent",
+    "value": "marketing",
+    "type": "Select"
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": []
+  }
+}
